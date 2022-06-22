@@ -44,10 +44,13 @@ plt.imshow(image_dilate1, 'gray')
 ```
 ## Output:
 ### Display the input Image
-![01](https://user-images.githubusercontent.com/75235747/169687674-013d5012-ede3-4006-968e-7dcafa1ad94a.JPG)
+![Screenshot (113)](https://user-images.githubusercontent.com/75235759/174993003-4f10e144-71f5-4316-865c-e8fb79ce6f19.png)
+
 ### Display the Eroded Image
-![02](https://user-images.githubusercontent.com/75235747/169687684-098631c1-fd5a-4936-a30a-ba72efede5a6.JPG)
+![Screenshot (115)](https://user-images.githubusercontent.com/75235759/174993495-15009ed4-59c1-4c5d-a2a5-a6b6e7e9ad3c.png)
+
 ### Display the Dilated Image
-![03](https://user-images.githubusercontent.com/75235747/169687700-fd3fa97a-e82a-418a-b002-8692cd01394e.JPG)
+![Screenshot (116)](https://user-images.githubusercontent.com/75235759/174993663-e5c461d2-c54b-44cf-895c-b2ef7297ec15.png)
+
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
